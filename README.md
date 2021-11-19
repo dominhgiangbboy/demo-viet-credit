@@ -3,6 +3,9 @@
 
 ![demo](vc-demo.png)
 
+
+## flutter pdf library
+[PDF library](https://pub.dev/packages/flutter_pdfview)
 ## flutter code
 
 ### Flutter code for download file to a specific path
